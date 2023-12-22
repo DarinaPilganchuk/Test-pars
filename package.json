@@ -1,6 +1,7 @@
 {
   "name": "test-pars",
   "version": "1.0.0",
+  "homepage": "https://DarinaPilganchuk.github.io/Test-pars/",
   "scripts": {
     "start": "parcel public/index.html --open",
     "build": "parcel build public/index.html"
