@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/DarinaPilganchuk/Test-pars",
   "devDependencies": {
     "parcel": "^2.10.3"
   }
