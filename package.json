@@ -1,11 +1,13 @@
 {
   "name": "my-project",
+  "homepage": "https://github.io/DarinaPilganchuk/Test-pars",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
   },
   "devDependencies": {
+    "gh-pages": "^6.1.0",
     "parcel": "^2.10.3"
   }
 }
