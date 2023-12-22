@@ -1,6 +1,4 @@
 {
-  
-  "homepage": "https://github.com/DarinaPilganchuk/Test-pars",
   "name": "my-project",
   "source": "src/index.html",
   "scripts": {
