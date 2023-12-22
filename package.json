@@ -1,5 +1,12 @@
 {
+  
   "homepage": "https://github.com/DarinaPilganchuk/Test-pars",
+  "name": "my-project",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
   "devDependencies": {
     "parcel": "^2.10.3"
   }
